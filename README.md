@@ -6,7 +6,7 @@
 
 ### 🛠 개발 환경
 - Language: Python 3.9.13
-- Libraries: mediapipe, numpy, opencv, PyOpenGL, ...
+- Libraries: mediapipe, numpy, opencv, PyOpenGL, ... (requirements.txt)
 - Platform: Window 11
 
 ### 🔗 리소스 출처
