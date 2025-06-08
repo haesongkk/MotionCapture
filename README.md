@@ -5,7 +5,8 @@
 
 
 인물의 관절을 불러오기 위해 mediapipe를 이용했다.  
-3D 어셋은 glb 파일로 변환하여 불러왔으며, openGL과 glsl 코드를 이용해 렌더링했다.  
+3D 어셋은 glb 파일로 변환하여 불러왔으며,  
+openGL과 glsl 코드를 이용해 렌더링했다.  
 
 ### 🛠 개발 환경
 - Language: Python 3.9.13
