@@ -15,8 +15,8 @@ from Shader import Shader
 
 class Process():
     def __init__(self):
-        print("oo")
-        self.window = pyglet.window.Window(800, 600, "GLB Viewer", resizable=False)
+        self.window = pyglet.window.Window(1302, 1080, "GLB Viewer", resizable=False)
+        self.window.set_location(0, 0)
         self.bQuit = False
         
         self.pose_estimator = PoseEstimator("sample.mp4")
