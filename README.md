@@ -6,7 +6,7 @@ MediaPipe로 영상 프레임의 인체 관절을 추정하고, GLB 형식의 �
 
 ## 실행 화면
 
-[![시연 영상](https://img.youtube.com/vi/_EFuHFMcCv8/maxresdefault.jpg)](https://www.youtube.com/watch?v=_EFuHFMcCv8)
+[![시연 영상](./screenshot.gif)](https://www.youtube.com/watch?v=_EFuHFMcCv8)
 
 > 위 이미지를 클릭하면 시연 영상을 확인할 수 있습니다.
 
